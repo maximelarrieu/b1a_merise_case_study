@@ -12,3 +12,6 @@ Nous avons dû définir un planning grâce à projetGANTT afin d'organiser notre
 Comprendre le langage LaTeX
 
 Prise en main du logiciel projetGANTT afin de planifier notre projet.
+
+Voici le lien vers notre diagramme [DeGant](https://docs.google.com/spreadsheets/d/1ncsDVByQT5a3kfeUI8ySdPnx8V6PSk_eG1TcZOvNeEM/edit#gid=0)
+
